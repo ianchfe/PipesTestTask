@@ -15,8 +15,10 @@
 
 🚀 Быстрый старт
   Клонируй репозиторий:
-`git clone https://github.com/your-username/3d-mine-viewer.git
-cd 3d-mine-viewer`
+  
+`git clone https://github.com/your-username/3d-mine-viewer.git1`
+
+`cd 3d-mine-viewer`
 
 
 Установи зависимости:
