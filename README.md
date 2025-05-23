@@ -23,11 +23,11 @@
 
 Установи зависимости:
 
-npm install
+`npm install`
 
 Запусти проект:
 
-npm run dev
+`npm run dev`
 
 Открой в браузере:
 
